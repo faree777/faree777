@@ -74,10 +74,10 @@ I'm a dedicated Software Engineer with a strong focus on AI, Machine Learning, a
 </p>
 
 
-The Toolbox: Madre Terra Edition #3416
 <div align="center">
-  *A custom art piece by Creds Studio celebrating my GitHub Skills, Projects, and Collaborations Journey*
+  *A custom art piece by [Creds Studio](https://www.linkedin.com/company/creds-studio/) celebrating my GitHub Skills, Projects, and Collaborations Journey*
 "Your home. A sacred space. The sanctuary of code. The keeper of innovation. A skill scriptorium. Nourishing soil of synergy. Planting trees of collaboration. Mastering tools of craft. Connecting harmony of mind. Line by line. Threads of progress entwine. Boundless potential unfolds. Together."
+#Share2Inspire • #CommunityLove • #Feature • #GitHub
 </div>
 
 
