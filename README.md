@@ -74,7 +74,10 @@ I'm a dedicated Software Engineer with a strong focus on AI, Machine Learning, a
 </p>
 
 
-💻 **The Toolbox: Madre Terra Edition #3416**
+
+
+### 💻 The Toolbox: Madre Terra Edition #3416
+
 <div align="center">
   
   <h3><i>A custom art piece by <a href="https://www.linkedin.com/company/creds-studio/">Creds Studio</a> celebrating my GitHub Skills, Projects, and Collaborations Journey</i></h3>
