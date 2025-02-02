@@ -73,6 +73,13 @@ I'm a dedicated Software Engineer with a strong focus on AI, Machine Learning, a
   <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" height="48" alt="Streamlit" />
 </p>
 
+🔧 GitHub Toolbox
+<p align="center">
+  <img src="https://raw.githubusercontent.com/credential/github-toolbox/main/images/github-toolbox-example.png" alt="GitHub Toolbox" />
+  <br>
+  <em>Empowering developers with enhanced GitHub features and productivity tools</em>
+</p>
+
 
 ## 🎯 LeetCode Stats & DSA
 <div align="center">
