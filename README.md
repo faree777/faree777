@@ -1,4 +1,4 @@
-👋 Hi, I’m @faree777  
+👋 Hi, I’m Fareeha Amir   
 - 🎓 I’m a 5th-semester BS Computer Science student, building a strong foundation in programming languages like C, C++, Java, HTML, CSS, JavaScript, and Python.  
 - 🔹 My academic journey has equipped me with expertise in Object-Oriented Programming (OOP), Data Structures, and Algorithms (DSA).  
 - 💻 I have hands-on experience with Streamlit for creating interactive web applications.  
