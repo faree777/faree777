@@ -73,26 +73,22 @@ I'm a dedicated Software Engineer with a strong focus on AI, Machine Learning, a
   <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" height="48" alt="Streamlit" />
 </p>
 
-🛠️ GitHub Toolbox
+
+🛠️ The Toolbox: Madre Terra Edition #3416
 <div align="center">
-  <h3>🔧 Supercharge Your GitHub Experience</h3>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Enhanced_Features-✨-brightgreen?style=for-the-badge" alt="Enhanced Features"/>
-    <img src="https://img.shields.io/badge/Productivity_Boost-🚀-blue?style=for-the-badge" alt="Productivity Boost"/>
-    <img src="https://img.shields.io/badge/Developer_Tools-⚡-orange?style=for-the-badge" alt="Developer Tools"/>
+  <a href="https://www.linkedin.com/posts/creds-studio_share2inspire-communitylove-feature-activity-7260485577664323584-eHTy" target="_blank">
+    <img src="path_to_your_artwork_image" alt="The Toolbox: Madre Terra Edition #3416 by Creds Studio" width="100%"/>
+  </a>
+<em>A custom art piece by Creds Studio celebrating my GitHub Skills, Projects, and Collaborations Journey</em>
+  <blockquote>
+    <p><i>"Your home. A sacred space. The sanctuary of code. The keeper of innovation. A skill scriptorium. Nourishing soil of synergy. Planting trees of collaboration. Mastering tools of craft. Connecting harmony of mind. Line by line. Threads of progress entwine. Boundless potential unfolds. Together."</i></p>
+  </blockquote>
+  <p>
+    <a href="https://www.linkedin.com/posts/creds-studio_share2inspire-communitylove-feature-activity-7260485577664323584-eHTy" target="_blank">#Share2Inspire</a> •
+    <a href="https://www.linkedin.com/posts/creds-studio_share2inspire-communitylove-feature-activity-7260485577664323584-eHTy" target="_blank">#CommunityLove</a> •
+    <a href="https://www.linkedin.com/posts/creds-studio_share2inspire-communitylove-feature-activity-7260485577664323584-eHTy" target="_blank">#Feature</a> •
+    <a href="https://www.linkedin.com/posts/creds-studio_share2inspire-communitylove-feature-activity-7260485577664323584-eHTy" target="_blank">#GitHub</a>
   </p>
-  <p><i>🎯 Empowering developers with enhanced GitHub features and productivity tools that streamline your workflow and boost efficiency</i></p>
-  <details>
-    <summary><b>✨ Key Features</b></summary>
-    <br>
-    <p>
-      🔄 Automated Workflow Integrations<br>
-      📊 Advanced Analytics Dashboard<br>
-      🛡️ Security Enhancements<br>
-      🤝 Collaboration Tools<br>
-      ⚡ Performance Optimizations
-    </p>
-  </details>
 </div>
 
 
