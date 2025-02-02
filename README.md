@@ -74,21 +74,13 @@ I'm a dedicated Software Engineer with a strong focus on AI, Machine Learning, a
 </p>
 
 
-🛠️ The Toolbox: Madre Terra Edition #3416
+The Toolbox: Madre Terra Edition #3416
 <div align="center">
   <a href="https://www.linkedin.com/posts/creds-studio_share2inspire-communitylove-feature-activity-7260485577664323584-eHTy" target="_blank">
-    <img src="path_to_your_artwork_image" alt="The Toolbox: Madre Terra Edition #3416 by Creds Studio" width="100%"/>
+    <img src="The Toolbox: Madre Terra Edition #3416 by Creds Studio" alt="The Toolbox: Madre Terra Edition #3416 by Creds Studio"/>
   </a>
-<em>A custom art piece by Creds Studio celebrating my GitHub Skills, Projects, and Collaborations Journey</em>
-  <blockquote>
-    <p><i>"Your home. A sacred space. The sanctuary of code. The keeper of innovation. A skill scriptorium. Nourishing soil of synergy. Planting trees of collaboration. Mastering tools of craft. Connecting harmony of mind. Line by line. Threads of progress entwine. Boundless potential unfolds. Together."</i></p>
-  </blockquote>
-  <p>
-    <a href="https://www.linkedin.com/posts/creds-studio_share2inspire-communitylove-feature-activity-7260485577664323584-eHTy" target="_blank">#Share2Inspire</a> •
-    <a href="https://www.linkedin.com/posts/creds-studio_share2inspire-communitylove-feature-activity-7260485577664323584-eHTy" target="_blank">#CommunityLove</a> •
-    <a href="https://www.linkedin.com/posts/creds-studio_share2inspire-communitylove-feature-activity-7260485577664323584-eHTy" target="_blank">#Feature</a> •
-    <a href="https://www.linkedin.com/posts/creds-studio_share2inspire-communitylove-feature-activity-7260485577664323584-eHTy" target="_blank">#GitHub</a>
-  </p>
+A custom art piece by Creds Studio celebrating my GitHub Skills, Projects, and Collaborations Journey
+"Your home. A sacred space. The sanctuary of code. The keeper of innovation. A skill scriptorium. Nourishing soil of synergy. Planting trees of collaboration. Mastering tools of craft. Connecting harmony of mind. Line by line. Threads of progress entwine. Boundless potential unfolds. Together."
 </div>
 
 
