@@ -73,12 +73,27 @@ I'm a dedicated Software Engineer with a strong focus on AI, Machine Learning, a
   <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" height="48" alt="Streamlit" />
 </p>
 
-🔧 GitHub Toolbox
-<p align="center">
-  <img src="https://raw.githubusercontent.com/credential/github-toolbox/main/images/github-toolbox-example.png" alt="GitHub Toolbox" />
-  <br>
-  <em>Empowering developers with enhanced GitHub features and productivity tools</em>
-</p>
+🛠️ GitHub Toolbox
+<div align="center">
+  <h3>🔧 Supercharge Your GitHub Experience</h3>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Enhanced_Features-✨-brightgreen?style=for-the-badge" alt="Enhanced Features"/>
+    <img src="https://img.shields.io/badge/Productivity_Boost-🚀-blue?style=for-the-badge" alt="Productivity Boost"/>
+    <img src="https://img.shields.io/badge/Developer_Tools-⚡-orange?style=for-the-badge" alt="Developer Tools"/>
+  </p>
+  <p><i>🎯 Empowering developers with enhanced GitHub features and productivity tools that streamline your workflow and boost efficiency</i></p>
+  <details>
+    <summary><b>✨ Key Features</b></summary>
+    <br>
+    <p>
+      🔄 Automated Workflow Integrations<br>
+      📊 Advanced Analytics Dashboard<br>
+      🛡️ Security Enhancements<br>
+      🤝 Collaboration Tools<br>
+      ⚡ Performance Optimizations
+    </p>
+  </details>
+</div>
 
 
 ## 🎯 LeetCode Stats & DSA
