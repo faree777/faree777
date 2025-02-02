@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Fareeha Amir
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%230000FF&size=30&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Full+Stack+Developer;AI+and+Machine+Learning+Expert;Competitive+Programming+Enthusiast;Gen+AI+Mentor+and+Educator;International+Hackathon+Participant">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%230000FF&size=30&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;AI+and+Machine+Learning+Expert;Competitive+Programming+Enthusiast;Gen+AI+Mentor+and+Educator;International+Hackathon+Participant">
 </div>
 
 ## 🎯 Quick Overview
@@ -12,7 +12,7 @@ class FareehaAmir:
         self.role = "Software Engineer & AI Enthusiast"
         self.location = "Lahore, Pakistan"
         self.education = "BS Computer Science (2023-2027)"
-        self.expertise = ["Machine Learning", "Full Stack Development", "Gen AI", "DSA"]
+        self.expertise = ["Machine Learning", "AI", "Gen AI", "DSA"]
         self.teaching = ["Gen AI", "Machine Learning", "DSA"]
         
     def say_hi(self):
@@ -64,7 +64,6 @@ I'm a dedicated Software Engineer with a strong focus on AI, Machine Learning, a
   <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/numpy.svg" height="48" alt="NumPy" />
 </p>
 
-[Previous sections remain the same until Technical Skills]
 
 ## 💻 Development & Deployment
 ### Cloud Platforms
@@ -74,10 +73,6 @@ I'm a dedicated Software Engineer with a strong focus on AI, Machine Learning, a
   <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" height="48" alt="Streamlit" />
 </p>
 
-- **ML Model Deployment**
-  - Hugging Face Spaces for model hosting
-  - Streamlit Cloud for interactive ML applications
-  - Vercel for web application deployment
 
 ## 🎯 LeetCode Stats & DSA
 <div align="center">
