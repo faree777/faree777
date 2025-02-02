@@ -80,7 +80,7 @@ I'm a dedicated Software Engineer with a strong focus on AI, Machine Learning, a
 
 <div align="center">
   
-  <h3><i>A custom art piece by <a href="https://www.linkedin.com/company/creds-studio/">Creds Studio</a> celebrating my GitHub Skills, Projects, and Collaborations Journey</i></h3>
+  <h3><i>A custom art piece by <a href="https://www.linkedin.com/posts/creds-studio_share2inspire-communitylove-feature-activity-7260485577664323584-eHTy?utm_source=social_share_video_v2&utm_medium=android_app&utm_campaign=copy_link/">Creds Studio</a> celebrating my GitHub Skills, Projects, and Collaborations Journey</i></h3>
   
   <p style="font-size: 1.1em; line-height: 1.6;">
     
