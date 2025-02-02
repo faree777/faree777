@@ -64,33 +64,42 @@ I'm a dedicated Software Engineer with a strong focus on AI, Machine Learning, a
   <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/numpy.svg" height="48" alt="NumPy" />
 </p>
 
+[Previous sections remain the same until Technical Skills]
+
+## 💻 Development & Deployment
+### Cloud Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vercel,git&theme=dark" />
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="48" alt="Hugging Face" />
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" height="48" alt="Streamlit" />
+</p>
+
+- **ML Model Deployment**
+  - Hugging Face Spaces for model hosting
+  - Streamlit Cloud for interactive ML applications
+  - Vercel for web application deployment
+
 ## 🎯 LeetCode Stats & DSA
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/Fareeha_Amir?theme=dark&font=Poppins&ext=heatmap" alt="LeetCode Stats"/>
 </div>
 
-<div align="center">
-  
-[![LeetCode user Fareeha_Amir](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FFareeha_Amir&logo=leetcode&logoColor=yellow)](https://leetcode.com/Fareeha_Amir/)
-
-</div>
-
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FareehaAmir&theme=react-dark&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=faree777&theme=react-dark&hide_border=true" width="100%"/>
 </div>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FareehaAmir&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FareehaAmir&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=faree777&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faree777&layout=compact&langs_count=8&theme=radical"/>
 </p>
 
 ## 🏆 Achievements & Certifications
 
 <div align="center">
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=FareehaAmir&theme=radical&row=1&column=7)
+![Trophy](https://github-profile-trophy.vercel.app/?username=faree777&theme=radical&row=1&column=7)
 
 </div>
 
@@ -113,6 +122,6 @@ I'm a dedicated Software Engineer with a strong focus on AI, Machine Learning, a
 
 ---
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=FareehaAmir&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=faree777&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   <h4>💫 Thank you for visiting my profile! Let's collaborate and innovate together! 🚀</h4>
 </div>
