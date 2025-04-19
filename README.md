@@ -34,6 +34,7 @@ I'm a dedicated Software Engineer with a strong focus on AI, Machine Learning, a
   - Gen AI Mentor in collaboration with Aspire Pakistan
   - Active instructor on iCode platform (Teaching DSA and Gen AI)
   - Free mentoring sessions for students
+  - Section Leader at Stanford Code In Place'25
   [View All Sessions](https://docs.google.com/spreadsheets/d/15M74Dox4QJwN49waJRD4YzKFluaUKjgm4p7uiDOBCcQ/edit?usp=sharing)
 
 ## 🛠️ Technical Skills
