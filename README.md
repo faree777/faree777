@@ -32,7 +32,7 @@ I'm a dedicated Software Engineer with a strong focus on AI, Machine Learning, a
   [View All Achievements](https://docs.google.com/spreadsheets/d/1eRKlswO7QcHPf8GGMfTs1qHY-a6SMuWPrRAVJwhBaZM/edit?usp=sharing)
 - 👨‍🏫 **Teaching & Mentorship**:
   - Gen AI Mentor in collaboration with Aspire Pakistan
-  - Active instructor on iCode platform (Teaching DSA and Gen AI)
+  - Active instructor on iCode platform (Teaching DSA and Python)
   - Section Leader at Stanford Code In Place'25
   - Free mentoring sessions for students
   [View All Sessions](https://docs.google.com/spreadsheets/d/15M74Dox4QJwN49waJRD4YzKFluaUKjgm4p7uiDOBCcQ/edit?usp=sharing)
