@@ -37,6 +37,20 @@ I'm a dedicated Software Engineer with a strong focus on AI, Machine Learning, a
   - Free mentoring sessions for students
   [View All Sessions](https://docs.google.com/spreadsheets/d/15M74Dox4QJwN49waJRD4YzKFluaUKjgm4p7uiDOBCcQ/edit?usp=sharing)
 
+## 💼 Experience
+
+### 🧑‍💻 Tech Support — 1now Decklaration, New York (Remote)
+📅 *July 2026 – Present*
+
+- Automated testing of the product and support workflows
+- Developing a custom customer-support chatbot, including RAG implementation, MCP integration, and more
+- Testing and improving the chatbot's automated answers for accuracy and quality
+
+### 🔬 Researcher — Prince Mohammad Bin Fahd University, Saudi Arabia (Remote)
+📅 *January 2025 – Present*
+
+- Research domains include medical imaging, remote sensing, and hyperspectral imaging
+
 ## 🛠️ Technical Skills
 
 ### Programming Languages
@@ -65,7 +79,6 @@ I'm a dedicated Software Engineer with a strong focus on AI, Machine Learning, a
   <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/numpy.svg" height="48" alt="NumPy" />
 </p>
 
-
 ## 💻 Development & Deployment
 ### Cloud Platforms
 <p align="center">
@@ -73,9 +86,6 @@ I'm a dedicated Software Engineer with a strong focus on AI, Machine Learning, a
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="48" alt="Hugging Face" />
   <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" height="48" alt="Streamlit" />
 </p>
-
-
-
 
 ## 💻 The Toolbox: Madre Terra Edition #3416
 
@@ -90,7 +100,6 @@ I'm a dedicated Software Engineer with a strong focus on AI, Machine Learning, a
   </p>
 </div>
 
-
 ## 🎯 LeetCode Stats & DSA
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/Fareeha_Amir?theme=dark&font=Poppins&ext=heatmap" alt="LeetCode Stats"/>
@@ -99,21 +108,18 @@ I'm a dedicated Software Engineer with a strong focus on AI, Machine Learning, a
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=faree777&theme=react-dark&hide_border=true" width="100%"/>
+  <img src="https://ghchart.rshah.org/0e75b6/faree777" alt="Fareeha's GitHub contribution chart" width="100%"/>
 </div>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=faree777&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faree777&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180" src="./profile-summary-card-output/radical/3-stats.svg" alt="GitHub Stats"/>
+  <img height="180" src="./profile-summary-card-output/radical/2-most-commit-language.svg" alt="Most Used Languages"/>
 </p>
 
-## 🏆 Achievements & Certifications
-
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=faree777&theme=radical&row=1&column=7)
-
-</div>
+<p align="center">
+  <img height="180" src="./profile-summary-card-output/radical/1-repos-per-language.svg" alt="Repos per Language"/>
+  <img height="180" src="./profile-summary-card-output/radical/4-productive-time.svg" alt="Productive Time"/>
+</p>
 
 ## 🤝 Let's Connect
 
