@@ -39,14 +39,14 @@ I'm a dedicated Software Engineer with a strong focus on AI, Machine Learning, a
 
 ## 💼 Experience
 
-### 🧑‍💻 Tech Support — 1Now Decklaration, New York (Remote)
+### 🧑‍💻 Tech Support at 1Now Decklaration, New York (Remote)
 📅 *July 2026 – Present*
 
 - Automated testing of the product and support workflows
 - Developing a custom customer-support chatbot, including RAG implementation, MCP integration etc
 - Testing and improving the chatbot's automated answers for accuracy and quality
 
-### 🔬 Researcher — Prince Mohammad Bin Fahd University, Saudi Arabia (Remote)
+### 🔬 Researcher at Prince Mohammad Bin Fahd University, Saudi Arabia (Remote)
 📅 *January 2025 – Present*
 
 - Research domains include medical imaging, remote sensing, and hyperspectral imaging
