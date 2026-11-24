@@ -43,7 +43,7 @@ I'm a dedicated Software Engineer with a strong focus on AI, Machine Learning, a
 📅 *July 2026 – Present*
 
 - Automated testing of the product and support workflows
-- Developing a custom customer-support chatbot, including RAG implementation, MCP integration, and more
+- Developing a custom customer-support chatbot, including RAG implementation, MCP integration etc
 - Testing and improving the chatbot's automated answers for accuracy and quality
 
 ### 🔬 Researcher — Prince Mohammad Bin Fahd University, Saudi Arabia (Remote)
