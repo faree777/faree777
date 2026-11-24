@@ -111,15 +111,6 @@ I'm a dedicated Software Engineer with a strong focus on AI, Machine Learning, a
   <img src="https://ghchart.rshah.org/0e75b6/faree777" alt="Fareeha's GitHub contribution chart" width="100%"/>
 </div>
 
-<p align="center">
-  <img height="180" src="./profile-summary-card-output/radical/3-stats.svg" alt="GitHub Stats"/>
-  <img height="180" src="./profile-summary-card-output/radical/2-most-commit-language.svg" alt="Most Used Languages"/>
-</p>
-
-<p align="center">
-  <img height="180" src="./profile-summary-card-output/radical/1-repos-per-language.svg" alt="Repos per Language"/>
-  <img height="180" src="./profile-summary-card-output/radical/4-productive-time.svg" alt="Productive Time"/>
-</p>
 
 ## 🤝 Let's Connect
 
