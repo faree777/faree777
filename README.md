@@ -39,7 +39,7 @@ I'm a dedicated Software Engineer with a strong focus on AI, Machine Learning, a
 
 ## 💼 Experience
 
-### 🧑‍💻 Tech Support — 1now Decklaration, New York (Remote)
+### 🧑‍💻 Tech Support — 1Now Decklaration, New York (Remote)
 📅 *July 2026 – Present*
 
 - Automated testing of the product and support workflows
