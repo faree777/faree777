@@ -48,8 +48,11 @@ I'm a dedicated Software Engineer with a strong focus on AI, Machine Learning, a
 
 ### 🔬 Researcher at Prince Mohammad Bin Fahd University, Saudi Arabia (Remote)
 📅 *January 2025 – Present*
-
-- Research domains include medical imaging, remote sensing, and hyperspectral imaging
+• Conducted research in Deep Learning, Computer Vision, and NLP, identifying research gaps and developing innovative AI-driven solutions.   
+• Developed and optimized deep learning models for medical imaging and remote sensing applications, including classification, segmentation, and  detection tasks.   
+• Applied AI techniques to disease diagnosis, tumor detection, image enhancement, environmental monitoring, and disaster assessment.   
+• Performed literature reviews, experimental evaluations, and model benchmarking to advance state-of-the-art research outcomes.  
+ • Implemented, fine-tuned, and evaluated advanced neural network architectures while staying current with emerging developments in AI and machine  learning.
 
 ## 🛠️ Technical Skills
 
